@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tIAiOW//o6zoCFiT9CWXpJZYpOYVm2AnkIiFUn7gA9lgVu5U21f9JNw7wZe6Ne77xT7hX8NSLh2cb+PfilN4Xw==",
+  "dgSpecHash": "YY9+7vChj2HM0+p/cg/VlMaXFqhFYAT1tcWOnn9bERxCDhZFgvdUQgW2BGuzR4Uz7VA/zuF8YDNvLEn8FOjMjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\apiconsola\\apiconsola.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\ApiPruebaBaseDatos\\apiconsola\\apiconsola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
